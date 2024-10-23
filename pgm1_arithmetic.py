@@ -1,0 +1,16 @@
+x=int(input("Enter the 1st no:"))
+y=int(input("Enter the 2nd no:"))
+a=x+y
+b=x-y
+c=x*y
+d=x/y
+e=x%y
+f=x**y
+g=x//y
+print("Sum of two numbers=",a)
+print("Difference of two numbers=",b)
+print("Product of two numbers=",c)
+print("Quotient of two numbers=",d)
+print("Remainder of two numbers=",e)
+print("Exponent of two numbers=",f)
+print("Floor Division of two numbers=",g)
